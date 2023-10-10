@@ -1,2 +1,2 @@
 # hehdweb
-An easy and simple framework for building attractive and responsive web pages. Within the activities of the traing program "Improving Capacities of Young People" of the Web Developing Training Bootcamp.
+An easy and simple framework for building attractive and responsive web pages. Within the activities of the traing program "Improving Capacities of Young People" of the Web Developing Training Bootcamp on behalf of the German Federal Ministry for Economic Cooperation and Development (BMZ) GIZ is implementing in partnership with Hadhramout Establishment for Human Development. Located in Mukulla - Hadhramout from 05-09-2023 to 31-12-2023.
