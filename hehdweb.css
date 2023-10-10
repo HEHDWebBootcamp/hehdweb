@@ -1,0 +1,94 @@
+/*!
+ * HEHDWeb Framework
+ * Version: 1.0.0
+ * Description: An easy and simple framework for building attractive and responsive web pages.
+ * License: MIT (https://opensource.org/licenses/MIT)
+ * 
+ * This framework is developed within the activities of the training program "Improving Capacities of Young People"
+ * of the Web Developing Training Bootcamp on behalf of the German Federal Ministry for Economic Cooperation and 
+ * Development (BMZ).
+ * GIZ is implementing this program in partnership with Hadhramout Establishment for Human Development.
+ * 
+ * Program Location: Mukulla - Hadhramout
+ * Program Dates: 05-09-2023 to 31-12-2023
+ */
+
+:root {
+    --color-primary: #336699;
+    --color-secondary: #993366;
+    --color-success: #66CC99;
+    --color-danger: #FF6666;
+    --color-warning: #FFCC66;
+    --color-info: #6699CC;
+    --color-light: #F5F5F5;
+    --color-dark: #333333;
+  }
+
+  /* Box sizing */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Remove default margin and padding */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul,
+figure,
+blockquote,
+dl,
+dd {
+  margin: 0;
+  padding: 0;
+}
+
+/* Remove list styles */
+ol,
+ul {
+  list-style: none;
+}
+
+/* Remove default hyperlink styles */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Remove outline on focused elements */
+*:focus {
+  outline: none;
+}
+
+/* Set default font family and size */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Set default line height */
+body,
+input,
+textarea,
+button {
+  line-height: 1.5;
+}
+
+/* Set default background and text color */
+body {
+  background-color: #fff;
+  color: #333;
+}
+
+/* Set default maximum width and center content */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
